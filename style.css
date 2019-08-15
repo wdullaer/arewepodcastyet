@@ -15,6 +15,10 @@ body {
     height: 40vh;
 }
 
+.half-filler {
+    height: 20vh;
+}
+
 .podcast {
     font-size: 8vw;
 }
